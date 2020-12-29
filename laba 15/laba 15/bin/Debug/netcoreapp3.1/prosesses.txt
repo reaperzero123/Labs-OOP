@@ -1,0 +1,1392 @@
+Id 0
+Name Idle
+Priority 0
+Responding True
+HandleConut 0
+
+Id 4
+Name System
+Priority 8
+Responding True
+HandleConut 4303
+
+Id 120
+Name Registry
+Priority 8
+Responding True
+HandleConut 0
+
+Id 760
+Name smss
+Priority 11
+Responding True
+HandleConut 53
+
+Id 864
+Name csrss
+Priority 13
+Responding True
+HandleConut 775
+
+Id 964
+Name csrss
+Priority 13
+Responding True
+HandleConut 925
+
+Id 988
+Name wininit
+Priority 13
+Responding True
+HandleConut 160
+
+Id 488
+Name winlogon
+Priority 13
+Responding True
+HandleConut 265
+
+Id 772
+Name services
+Priority 9
+Responding True
+HandleConut 725
+
+Id 820
+Name lsass
+Priority 9
+Responding True
+HandleConut 1443
+
+Id 1120
+Name svchost
+Priority 8
+Responding True
+HandleConut 87
+
+Id 1152
+Name svchost
+Priority 8
+Responding True
+HandleConut 1000
+
+Id 1176
+Name WUDFHost
+Priority 13
+Responding True
+HandleConut 308
+
+Id 1196
+Name fontdrvhost
+Priority 8
+Responding True
+HandleConut 38
+
+Id 1204
+Name fontdrvhost
+Priority 8
+Responding True
+HandleConut 38
+
+Id 1304
+Name svchost
+Priority 8
+Responding True
+HandleConut 1202
+
+Id 1360
+Name svchost
+Priority 8
+Responding True
+HandleConut 306
+
+Id 1428
+Name WUDFHost
+Priority 8
+Responding True
+HandleConut 640
+
+Id 1488
+Name dwm
+Priority 13
+Responding True
+HandleConut 1221
+
+Id 1596
+Name svchost
+Priority 8
+Responding True
+HandleConut 159
+
+Id 1620
+Name svchost
+Priority 8
+Responding True
+HandleConut 185
+
+Id 1628
+Name svchost
+Priority 8
+Responding True
+HandleConut 172
+
+Id 1672
+Name svchost
+Priority 8
+Responding True
+HandleConut 255
+
+Id 1740
+Name svchost
+Priority 8
+Responding True
+HandleConut 135
+
+Id 1984
+Name svchost
+Priority 8
+Responding True
+HandleConut 282
+
+Id 2012
+Name svchost
+Priority 8
+Responding True
+HandleConut 162
+
+Id 968
+Name svchost
+Priority 8
+Responding True
+HandleConut 229
+
+Id 768
+Name svchost
+Priority 8
+Responding True
+HandleConut 403
+
+Id 2076
+Name svchost
+Priority 8
+Responding True
+HandleConut 225
+
+Id 2136
+Name TouchpointAnalyticsClientService
+Priority 8
+Responding True
+HandleConut 722
+
+Id 2144
+Name SysInfoCap
+Priority 8
+Responding True
+HandleConut 304
+
+Id 2160
+Name AppHelperCap
+Priority 8
+Responding True
+HandleConut 149
+
+Id 2168
+Name NetworkCap
+Priority 8
+Responding True
+HandleConut 237
+
+Id 2292
+Name svchost
+Priority 8
+Responding True
+HandleConut 241
+
+Id 2356
+Name svchost
+Priority 8
+Responding True
+HandleConut 161
+
+Id 2488
+Name svchost
+Priority 8
+Responding True
+HandleConut 180
+
+Id 2576
+Name svchost
+Priority 8
+Responding True
+HandleConut 395
+
+Id 2604
+Name svchost
+Priority 8
+Responding True
+HandleConut 169
+
+Id 2856
+Name svchost
+Priority 8
+Responding True
+HandleConut 130
+
+Id 2952
+Name svchost
+Priority 8
+Responding True
+HandleConut 252
+
+Id 2388
+Name svchost
+Priority 8
+Responding True
+HandleConut 468
+
+Id 3128
+Name svchost
+Priority 8
+Responding True
+HandleConut 183
+
+Id 3244
+Name svchost
+Priority 8
+Responding True
+HandleConut 156
+
+Id 3312
+Name WmiPrvSE
+Priority 8
+Responding True
+HandleConut 366
+
+Id 3404
+Name unsecapp
+Priority 8
+Responding True
+HandleConut 143
+
+Id 3536
+Name WmiPrvSE
+Priority 8
+Responding True
+HandleConut 188
+
+Id 3768
+Name SynTPEnhService
+Priority 8
+Responding True
+HandleConut 346
+
+Id 3816
+Name NVDisplay.Container
+Priority 8
+Responding True
+HandleConut 341
+
+Id 3872
+Name SynTPEnh
+Priority 10
+Responding True
+HandleConut 519
+
+Id 3968
+Name svchost
+Priority 8
+Responding True
+HandleConut 433
+
+Id 4008
+Name svchost
+Priority 8
+Responding True
+HandleConut 256
+
+Id 4016
+Name svchost
+Priority 8
+Responding True
+HandleConut 228
+
+Id 4028
+Name NVDisplay.Container
+Priority 8
+Responding True
+HandleConut 683
+
+Id 844
+Name igfxCUIService
+Priority 8
+Responding True
+HandleConut 172
+
+Id 3028
+Name svchost
+Priority 8
+Responding True
+HandleConut 187
+
+Id 2380
+Name svchost
+Priority 8
+Responding True
+HandleConut 285
+
+Id 3524
+Name sihost
+Priority 8
+Responding True
+HandleConut 518
+
+Id 1724
+Name svchost
+Priority 8
+Responding True
+HandleConut 622
+
+Id 2708
+Name PresentationFontCache
+Priority 8
+Responding True
+HandleConut 240
+
+Id 2096
+Name svchost
+Priority 8
+Responding True
+HandleConut 405
+
+Id 3648
+Name RTSS
+Priority 6
+Responding True
+HandleConut 323
+
+Id 4124
+Name taskhostw
+Priority 8
+Responding True
+HandleConut 345
+
+Id 4320
+Name svchost
+Priority 8
+Responding True
+HandleConut 248
+
+Id 4464
+Name svchost
+Priority 8
+Responding True
+HandleConut 173
+
+Id 4532
+Name svchost
+Priority 8
+Responding True
+HandleConut 140
+
+Id 4540
+Name svchost
+Priority 8
+Responding True
+HandleConut 377
+
+Id 4652
+Name ctfmon
+Priority 13
+Responding True
+HandleConut 438
+
+Id 4784
+Name svchost
+Priority 8
+Responding True
+HandleConut 514
+
+Id 4872
+Name svchost
+Priority 8
+Responding True
+HandleConut 199
+
+Id 4924
+Name svchost
+Priority 8
+Responding True
+HandleConut 370
+
+Id 5004
+Name spoolsv
+Priority 8
+Responding True
+HandleConut 494
+
+Id 5092
+Name svchost
+Priority 8
+Responding True
+HandleConut 388
+
+Id 2392
+Name svchost
+Priority 8
+Responding True
+HandleConut 421
+
+Id 1536
+Name explorer
+Priority 8
+Responding True
+HandleConut 4435
+
+Id 1992
+Name svchost
+Priority 8
+Responding True
+HandleConut 189
+
+Id 1708
+Name svchost
+Priority 8
+Responding True
+HandleConut 269
+
+Id 1844
+Name svchost
+Priority 8
+Responding True
+HandleConut 169
+
+Id 5180
+Name svchost
+Priority 8
+Responding True
+HandleConut 225
+
+Id 5216
+Name svchost
+Priority 8
+Responding True
+HandleConut 393
+
+Id 5224
+Name svchost
+Priority 8
+Responding True
+HandleConut 484
+
+Id 5292
+Name svchost
+Priority 8
+Responding True
+HandleConut 407
+
+Id 5320
+Name RtkBtManServ
+Priority 8
+Responding True
+HandleConut 147
+
+Id 5328
+Name esif_uf
+Priority 13
+Responding True
+HandleConut 100
+
+Id 5340
+Name hrsrv
+Priority 8
+Responding True
+HandleConut 215
+
+Id 5360
+Name RtkAudUService64
+Priority 8
+Responding True
+HandleConut 306
+
+Id 5384
+Name svchost
+Priority 8
+Responding True
+HandleConut 136
+
+Id 5480
+Name svchost
+Priority 8
+Responding True
+HandleConut 216
+
+Id 5488
+Name CxAudioSvc
+Priority 8
+Responding True
+HandleConut 297
+
+Id 5508
+Name nvcontainer
+Priority 8
+Responding True
+HandleConut 616
+
+Id 5536
+Name wlanext
+Priority 8
+Responding True
+HandleConut 181
+
+Id 5544
+Name OneApp.IGCC.WinService
+Priority 8
+Responding True
+HandleConut 329
+
+Id 5552
+Name MsMpEng
+Priority 8
+Responding True
+HandleConut 917
+
+Id 5560
+Name PsiService_2
+Priority 8
+Responding True
+HandleConut 130
+
+Id 5568
+Name IntelCpHDCPSvc
+Priority 8
+Responding True
+HandleConut 144
+
+Id 5576
+Name armsvc
+Priority 8
+Responding True
+HandleConut 147
+
+Id 5584
+Name HuaweiHiSuiteService64
+Priority 8
+Responding True
+HandleConut 217
+
+Id 5592
+Name JetBrains.Etw.Collector.Host
+Priority 8
+Responding True
+HandleConut 69
+
+Id 5624
+Name IpOverUsbSvc
+Priority 8
+Responding True
+HandleConut 279
+
+Id 5640
+Name OfficeClickToRun
+Priority 8
+Responding True
+HandleConut 621
+
+Id 5768
+Name svchost
+Priority 8
+Responding True
+HandleConut 110
+
+Id 5856
+Name RstMwService
+Priority 8
+Responding True
+HandleConut 142
+
+Id 6132
+Name IntelCpHeciSvc
+Priority 8
+Responding True
+HandleConut 138
+
+Id 2376
+Name svchost
+Priority 8
+Responding True
+HandleConut 211
+
+Id 6248
+Name conhost
+Priority 8
+Responding True
+HandleConut 119
+
+Id 6284
+Name jhi_service
+Priority 8
+Responding True
+HandleConut 126
+
+Id 6320
+Name svchost
+Priority 8
+Responding True
+HandleConut 463
+
+Id 6372
+Name svchost
+Priority 8
+Responding True
+HandleConut 123
+
+Id 7132
+Name igfxEM
+Priority 8
+Responding True
+HandleConut 931
+
+Id 3256
+Name rundll32
+Priority 8
+Responding True
+HandleConut 132
+
+Id 2212
+Name svchost
+Priority 8
+Responding True
+HandleConut 322
+
+Id 5036
+Name nvcontainer
+Priority 8
+Responding True
+HandleConut 533
+
+Id 5764
+Name svchost
+Priority 8
+Responding True
+HandleConut 254
+
+Id 5716
+Name StartMenuExperienceHost
+Priority 8
+Responding True
+HandleConut 618
+
+Id 7312
+Name RuntimeBroker
+Priority 8
+Responding True
+HandleConut 234
+
+Id 7596
+Name SearchUI
+Priority 8
+Responding True
+HandleConut 921
+
+Id 7800
+Name RuntimeBroker
+Priority 8
+Responding True
+HandleConut 116
+
+Id 852
+Name NisSrv
+Priority 8
+Responding True
+HandleConut 212
+
+Id 7204
+Name NVIDIA Web Helper
+Priority 6
+Responding True
+HandleConut 627
+
+Id 7208
+Name conhost
+Priority 6
+Responding True
+HandleConut 122
+
+Id 7048
+Name Lightshot
+Priority 8
+Responding True
+HandleConut 529
+
+Id 6360
+Name ShellExperienceHost
+Priority 8
+Responding True
+HandleConut 899
+
+Id 4300
+Name RuntimeBroker
+Priority 8
+Responding True
+HandleConut 381
+
+Id 9028
+Name EncoderServer
+Priority 6
+Responding True
+HandleConut 124
+
+Id 9048
+Name RTSSHooksLoader64
+Priority 6
+Responding True
+HandleConut 101
+
+Id 8668
+Name IAStorDataMgrSvc
+Priority 8
+Responding True
+HandleConut 403
+
+Id 4576
+Name SgrmBroker
+Priority 8
+Responding True
+HandleConut 90
+
+Id 8620
+Name svchost
+Priority 8
+Responding True
+HandleConut 242
+
+Id 9120
+Name svchost
+Priority 8
+Responding True
+HandleConut 234
+
+Id 5660
+Name SecurityHealthService
+Priority 8
+Responding True
+HandleConut 289
+
+Id 9108
+Name svchost
+Priority 8
+Responding True
+HandleConut 252
+
+Id 9748
+Name SecurityHealthHost
+Priority 8
+Responding True
+HandleConut 193
+
+Id 7388
+Name svchost
+Priority 8
+Responding True
+HandleConut 201
+
+Id 8492
+Name svchost
+Priority 8
+Responding True
+HandleConut 214
+
+Id 2660
+Name CompPkgSrv
+Priority 8
+Responding True
+HandleConut 173
+
+Id 12248
+Name RuntimeBroker
+Priority 8
+Responding True
+HandleConut 142
+
+Id 8644
+Name mfap
+Priority 8
+Responding True
+HandleConut 220
+
+Id 1640
+Name WindowsInternal.ComposableShell.Experiences.TextInput.InputApp
+Priority 8
+Responding True
+HandleConut 516
+
+Id 10384
+Name rundll32
+Priority 8
+Responding True
+HandleConut 147
+
+Id 4416
+Name svchost
+Priority 8
+Responding True
+HandleConut 298
+
+Id 2996
+Name svchost
+Priority 8
+Responding True
+HandleConut 188
+
+Id 7744
+Name opera
+Priority 8
+Responding True
+HandleConut 1985
+
+Id 6240
+Name opera_crashreporter
+Priority 8
+Responding True
+HandleConut 311
+
+Id 6080
+Name opera
+Priority 10
+Responding True
+HandleConut 1522
+
+Id 4624
+Name opera
+Priority 8
+Responding True
+HandleConut 564
+
+Id 1436
+Name opera
+Priority 4
+Responding True
+HandleConut 360
+
+Id 6124
+Name opera
+Priority 8
+Responding True
+HandleConut 373
+
+Id 3436
+Name opera
+Priority 4
+Responding True
+HandleConut 360
+
+Id 10480
+Name opera
+Priority 4
+Responding True
+HandleConut 473
+
+Id 11468
+Name opera
+Priority 4
+Responding True
+HandleConut 437
+
+Id 8496
+Name opera
+Priority 4
+Responding True
+HandleConut 396
+
+Id 8208
+Name opera
+Priority 4
+Responding True
+HandleConut 1276
+
+Id 9192
+Name opera
+Priority 8
+Responding True
+HandleConut 381
+
+Id 3308
+Name opera
+Priority 8
+Responding True
+HandleConut 350
+
+Id 2064
+Name opera
+Priority 8
+Responding True
+HandleConut 380
+
+Id 6932
+Name opera
+Priority 8
+Responding True
+HandleConut 388
+
+Id 10560
+Name opera
+Priority 8
+Responding True
+HandleConut 427
+
+Id 9848
+Name opera
+Priority 8
+Responding True
+HandleConut 273
+
+Id 11284
+Name ApplicationFrameHost
+Priority 8
+Responding True
+HandleConut 283
+
+Id 2004
+Name svchost
+Priority 8
+Responding True
+HandleConut 399
+
+Id 9104
+Name opera
+Priority 4
+Responding True
+HandleConut 547
+
+Id 7256
+Name opera
+Priority 4
+Responding True
+HandleConut 502
+
+Id 12200
+Name opera
+Priority 4
+Responding True
+HandleConut 488
+
+Id 3384
+Name svchost
+Priority 8
+Responding True
+HandleConut 115
+
+Id 1704
+Name opera
+Priority 4
+Responding True
+HandleConut 467
+
+Id 12364
+Name opera
+Priority 8
+Responding True
+HandleConut 375
+
+Id 5088
+Name WinRAR
+Priority 8
+Responding True
+HandleConut 513
+
+Id 4424
+Name devenv
+Priority 8
+Responding True
+HandleConut 2353
+
+Id 11972
+Name PerfWatson2
+Priority 8
+Responding True
+HandleConut 902
+
+Id 8936
+Name Microsoft.ServiceHub.Controller
+Priority 8
+Responding True
+HandleConut 525
+
+Id 4140
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 13220
+Name ServiceHub.IdentityHost
+Priority 8
+Responding True
+HandleConut 896
+
+Id 4048
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 2428
+Name ServiceHub.VSDetouredHost
+Priority 8
+Responding True
+HandleConut 1118
+
+Id 5044
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 11340
+Name ServiceHub.Host.CLR.x86
+Priority 8
+Responding True
+HandleConut 704
+
+Id 10124
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 12412
+Name ServiceHub.SettingsHost
+Priority 8
+Responding True
+HandleConut 1065
+
+Id 2520
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 3340
+Name audiodg
+Priority 8
+Responding True
+HandleConut 301
+
+Id 5352
+Name ServiceHub.ThreadedWaitDialog
+Priority 8
+Responding True
+HandleConut 665
+
+Id 10884
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 8252
+Name ServiceHub.RoslynCodeAnalysisService32
+Priority 6
+Responding True
+HandleConut 958
+
+Id 6800
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 10688
+Name ServiceHub.Host.CLR.x86
+Priority 8
+Responding True
+HandleConut 1093
+
+Id 7504
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 12456
+Name ServiceHub.TestWindowStoreHost
+Priority 8
+Responding True
+HandleConut 481
+
+Id 14224
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 2416
+Name svchost
+Priority 8
+Responding True
+HandleConut 173
+
+Id 12668
+Name VBCSCompiler
+Priority 8
+Responding True
+HandleConut 356
+
+Id 14172
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 10712
+Name ServiceHub.DataWarehouseHost
+Priority 8
+Responding True
+HandleConut 768
+
+Id 11332
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 6648
+Name ScriptedSandbox64
+Priority 8
+Responding True
+HandleConut 452
+
+Id 3716
+Name devenv
+Priority 8
+Responding True
+HandleConut 2201
+
+Id 7840
+Name PerfWatson2
+Priority 8
+Responding True
+HandleConut 628
+
+Id 5400
+Name Microsoft.ServiceHub.Controller
+Priority 8
+Responding True
+HandleConut 621
+
+Id 3020
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 9728
+Name ServiceHub.IdentityHost
+Priority 8
+Responding True
+HandleConut 884
+
+Id 8196
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 11776
+Name ServiceHub.VSDetouredHost
+Priority 8
+Responding True
+HandleConut 1121
+
+Id 3908
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 3280
+Name ServiceHub.Host.CLR.x86
+Priority 8
+Responding True
+HandleConut 695
+
+Id 2120
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 13468
+Name ServiceHub.SettingsHost
+Priority 8
+Responding True
+HandleConut 1053
+
+Id 8852
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 13944
+Name ServiceHub.ThreadedWaitDialog
+Priority 8
+Responding True
+HandleConut 665
+
+Id 1756
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 12520
+Name ServiceHub.RoslynCodeAnalysisService32
+Priority 6
+Responding True
+HandleConut 1378
+
+Id 8980
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 13608
+Name MSBuild
+Priority 8
+Responding True
+HandleConut 550
+
+Id 10392
+Name conhost
+Priority 8
+Responding True
+HandleConut 119
+
+Id 1904
+Name ServiceHub.Host.CLR.x86
+Priority 8
+Responding True
+HandleConut 1092
+
+Id 11436
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 10428
+Name ServiceHub.TestWindowStoreHost
+Priority 8
+Responding True
+HandleConut 485
+
+Id 2256
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 14192
+Name ServiceHub.DataWarehouseHost
+Priority 8
+Responding True
+HandleConut 933
+
+Id 2040
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 7216
+Name StandardCollector.Service
+Priority 8
+Responding True
+HandleConut 557
+
+Id 13592
+Name AcroRd32
+Priority 8
+Responding True
+HandleConut 588
+
+Id 8532
+Name AcroRd32
+Priority 8
+Responding True
+HandleConut 415
+
+Id 11112
+Name RdrCEF
+Priority 8
+Responding True
+HandleConut 539
+
+Id 6652
+Name RdrCEF
+Priority 8
+Responding True
+HandleConut 314
+
+Id 4340
+Name opera
+Priority 4
+Responding True
+HandleConut 434
+
+Id 13896
+Name opera
+Priority 4
+Responding True
+HandleConut 489
+
+Id 11680
+Name git
+Priority 8
+Responding True
+HandleConut 98
+
+Id 7352
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 4668
+Name git
+Priority 8
+Responding True
+HandleConut 92
+
+Id 14560
+Name conhost
+Priority 8
+Responding True
+HandleConut 122
+
+Id 14268
+Name msvsmon
+Priority 8
+Responding True
+HandleConut 438
+
+Id 15000
+Name VsDebugConsole
+Priority 8
+Responding True
+HandleConut 109
+
+Id 15084
+Name conhost
+Priority 8
+Responding True
+HandleConut 213
+
+Id 14884
+Name laba 15
+Priority 8
+Responding True
+HandleConut 215
+

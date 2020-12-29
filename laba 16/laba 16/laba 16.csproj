@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>laba_16</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="laba 15\.vs\laba 15\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="laba 15\laba 15.sln" />
+    <None Include="laba 15\laba 15\laba 15.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="laba 15\.vs\laba 15\v16\" />
+  </ItemGroup>
+
+</Project>
